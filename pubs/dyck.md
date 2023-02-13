@@ -1,0 +1,1 @@
+<p>We discuss the open problem of parsing the Dyck language of 3 symbols, <span class="math inline"><em>D</em><sup>3</sup></span>, using a 2-Multiple Context-Free Grammar. We attempt to tackle this problem by implementing a number of novel meta-grammatical techniques and present the associated software packages we developed.</p>
